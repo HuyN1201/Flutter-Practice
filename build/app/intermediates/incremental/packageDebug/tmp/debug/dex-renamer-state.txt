@@ -1,4 +1,4 @@
-#Fri Sep 25 11:26:45 CDT 2020
-base.0=C\:\\Users\\Huy Nguyen\\Documents\\FlutterDevelopment\\wsu_go\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Fri Oct 02 10:56:39 CDT 2020
+base.0=C\:\\Users\\vishu\\StudioProjects\\Flutter-Practice\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
